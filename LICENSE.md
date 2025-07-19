@@ -1,7 +1,3 @@
-Here's the same **MIT License** text tailored specifically for **Techpotli**, formatted in a more polished way for inclusion in your open-source project:
-
----
-
 ### MIT License
 
 **Copyright (c) 2025 Techpotli**
@@ -23,7 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.**
-
----
-
-Let me know if you'd like it in `.txt`, `.md`, or as a downloadable file.
