@@ -1,90 +1,106 @@
-## [Devias Kit - React](https://material-kit-react.devias.io/)
+## [Techpotli Dashboard - React](https://techpotli.com/dashboard)
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-[![Devias Kit - React](https://github.com/devias-io/material-kit-react/blob/main/public/assets/thumbnail.png)](https://material-kit-react.devias.io/)
+[![Techpotli Dashboard](https://github.com/techpotli/techpotli-dashboard/blob/main/public/assets/thumbnail.png)](https://techpotli.com/dashboard)
 
-> Free React Admin Dashboard made with [MUI's](https://mui.com) components, [React](https://reactjs.org) and of course [Next.js](https://github.com/vercel/next.js) to boost your app development process!
+> A free, modern React Admin Dashboard built with [MUI](https://mui.com), [React](https://reactjs.org), and [Next.js](https://github.com/vercel/next.js) – designed to accelerate your development workflow.
 
-## Pages 
+## Pages
 
-- [Dashboard](https://material-kit-react.devias.io)
-- [Customers](https://material-kit-react.devias.io/dashboard/customers)
-- [Integrations](https://material-kit-react.devias.io/dashboard/integrations)
-- [Settings](https://material-kit-react.devias.io/dashboard/settings)
-- [Account](https://material-kit-react.devias.io/dashboard/account)
-- [Sign In](https://material-kit-react.devias.io/auth/sign-in)
-- [Sign Up](https://material-kit-react.devias.io/auth/sign-up)
-- [Reset Password](https://material-kit-react.devias.io/auth/reset-password)
+- [Dashboard](https://techpotli.com/dashboard)
+- [Customers](https://techpotli.com/dashboard/customers)
+- [Integrations](https://techpotli.com/dashboard/integrations)
+- [Settings](https://techpotli.com/dashboard/settings)
+- [Account](https://techpotli.com/dashboard/account)
+- [Sign In](https://techpotli.com/auth/sign-in)
+- [Sign Up](https://techpotli.com/auth/sign-up)
+- [Reset Password](https://techpotli.com/auth/reset-password)
 
-## Free Figma Community File
+## Free Figma Design
 
-- [Duplicate File](https://www.figma.com/file/b3L1Np4RYiicZAOMopHNkm/Devias-Dashboard-Design-Library-Kit)
+- [Duplicate Figma File](https://www.figma.com/file/b3L1Np4RYiicZAOMopHNkm/Devias-Dashboard-Design-Library-Kit)
 
-## Upgrade to PRO Version
+## Upgrade to PRO (Optional)
 
-We also have a pro version of this product which bundles even more pages and components if you want
-to save more time and design efforts :)
+Interested in more features, more pages, and complete user flows?
 
-| Free Version (this one)  | [Devias Kit Pro](https://mui.com/store/items/devias-kit-pro/)                |
-| ------------------------ | :--------------------------------------------------------------------------- |
-| **8** Pages              | **80+** Pages                                                                |
-| ✔ Custom Authentication  | ✔ Authentication with **Amplify**, **Auth0**, **Firebase** and **Supabase**  |
-| -                        | ✔ Vite Version                                                               |
-| -                        | ✔ Dark Mode Support                                                          |
-| -                        | ✔ Complete Users Flows                                                       |
-| -                        | ✔ Premium Technical Support                                                  |
+| Free Version (this one)     | [Pro Version](https://mui.com/store/items/devias-kit-pro/)                   |
+| --------------------------- | :---------------------------------------------------------------------------- |
+| **8** Pages                 | **80+** Pages                                                                 |
+| ✔ Custom Authentication     | ✔ Auth via **Amplify**, **Firebase**, **Auth0**, **Supabase**                 |
+| -                           | ✔ Dark Mode Support                                                           |
+| -                           | ✔ Full User Flow                                                              |
+| -                           | ✔ Premium Technical Support                                                   |
+| -                           | ✔ Vite Support                                                                |
 
-## Quick start
+## Quick Start
 
-- Clone the repo: `git clone https://github.com/devias-io/material-kit-react.git`
-- Make sure your Node.js and npm versions are up to date
-- Install dependencies: `npm install` or `yarn`
-- Start the server: `npm run dev` or `yarn dev`
-- Open browser: `http://localhost:3000`
+```bash
+# Clone the repository
+git clone https://github.com/techpotli/techpotli-dashboard.git
+
+# Navigate to the project
+cd techpotli-dashboard
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+# Open in browser
+http://localhost:3000
+```
 
 ## File Structure
 
-Within the download you'll find the following directories and files:
-
 ```
-┌── .editorconfig
+├── .editorconfig
 ├── .eslintrc.js
 ├── .gitignore
-├── CHANGELOG.md
 ├── LICENSE.md
-├── next-env.d.ts
 ├── next.config.js
 ├── package.json
-├── README.md
 ├── tsconfig.json
-├── public
-└── src
-	├── components
-	├── contexts
-	├── hooks
-	├── lib
-	├── styles
-	├── types
-	└── app
-		├── layout.tsx
-		├── page.tsx
-		├── auth
-		└── dashboard
+├── README.md
+├── public/
+└── src/
+    ├── app/
+    │   ├── layout.tsx
+    │   ├── page.tsx
+    │   ├── auth/
+    │   └── dashboard/
+    ├── components/
+    ├── contexts/
+    ├── hooks/
+    ├── lib/
+    ├── styles/
+    └── types/
 ```
 
 ## Resources
 
-- More freebies like this one: https://devias.io
+- More tools and UI kits: [techpotli.com](https://techpotli.com)
 
-## Reporting Issues:
+## Reporting Issues
 
-- [Github Issues Page](https://github.com/devias-io/material-kit-react/issues)
+- [GitHub Issues Page](https://github.com/techpotli/techpotli-dashboard/issues)
 
 ## License
 
-- Licensed under [MIT](https://github.com/devias-io/material-kit-react/blob/main/LICENSE.md)
+Licensed under the [MIT License](LICENSE.md)
 
-## Contact Us
+```
+MIT License
 
-- Email Us: support@deviasio.zendesk.com
+Copyright (c) 2025 Techpotli
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction...
+```
+
+## Contact
+
+- 📧 Email: [support@techpotli.com](mailto:support@techpotli.com)
