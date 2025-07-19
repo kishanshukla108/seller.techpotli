@@ -2,7 +2,7 @@
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-[![Techpotli Dashboard](https://github.com/techpotli/techpotli-dashboard/blob/main/public/assets/thumbnail.png)](https://techpotli.com/dashboard)
+[![Techpotli Dashboard](https://github.com/techpotli/techpotli-dashboard/blob/main/public/assets/thumbnail.png)](https://techpotli.com)
 
 > A free, modern React Admin Dashboard built with [MUI](https://mui.com), [React](https://reactjs.org), and [Next.js](https://github.com/vercel/next.js) – designed to accelerate your development workflow.
 
