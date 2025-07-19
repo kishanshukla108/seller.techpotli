@@ -17,22 +17,6 @@
 - [Sign Up](https://techpotli.com/auth/sign-up)
 - [Reset Password](https://techpotli.com/auth/reset-password)
 
-## Free Figma Design
-
-- [Duplicate Figma File](https://www.figma.com/file/b3L1Np4RYiicZAOMopHNkm/Devias-Dashboard-Design-Library-Kit)
-
-## Upgrade to PRO (Optional)
-
-Interested in more features, more pages, and complete user flows?
-
-| Free Version (this one)     | [Pro Version](https://mui.com/store/items/devias-kit-pro/)                   |
-| --------------------------- | :---------------------------------------------------------------------------- |
-| **8** Pages                 | **80+** Pages                                                                 |
-| ✔ Custom Authentication     | ✔ Auth via **Amplify**, **Firebase**, **Auth0**, **Supabase**                 |
-| -                           | ✔ Dark Mode Support                                                           |
-| -                           | ✔ Full User Flow                                                              |
-| -                           | ✔ Premium Technical Support                                                   |
-| -                           | ✔ Vite Support                                                                |
 
 ## Quick Start
 
